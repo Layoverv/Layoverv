@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-labelledby="t d">
-  <title id="t">ホセ・ルイス・オビエド・カマチョ — 動き続けるシステム</title>
+  <title id="t">LAYOVERV — 動き続けるシステム</title>
   <desc id="d">粒子感のあるモノクロのバナー。軌道に囲まれた四芒星と、エレクトリックブルーのアクセント。</desc>
   
   <defs>
@@ -3275,7 +3275,7 @@
   </g>
 
   <!-- marca superior izquierda -->
-  <text x="40" y="78" font-family="'Helvetica Neue','Arial Black',Helvetica,Arial,'Noto Sans JP','Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo',sans-serif" font-weight="900" font-size="46" fill="#fff" letter-spacing="-1">オビエド<tspan font-size="16" dy="-22" font-weight="700">©</tspan></text>
+  <text x="40" y="78" font-family="'Helvetica Neue','Arial Black',Helvetica,Arial,'Noto Sans JP','Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo',sans-serif" font-weight="900" font-size="46" fill="#fff" letter-spacing="-1">LAYOVERV<tspan font-size="16" dy="-22" font-weight="700">©</tspan></text>
   <text x="42" y="112" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Noto Sans Mono CJK JP','MS Gothic','Osaka-Mono','Noto Sans JP','Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo',monospace" font-size="12" fill="#e8e8e8" letter-spacing="1.5" text-anchor="start"><tspan x="42" dy="0">動き続けるシステム。</tspan><tspan x="42" dy="17.4">解決する。学ぶ。</tspan><tspan x="42" dy="17.4">足跡を残す。</tspan></text>
 
   <!-- etiquetas superior derecha -->
@@ -3285,7 +3285,7 @@
   </g>
 
   <!-- bloques laterales -->
-  <text x="40" y="360" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Noto Sans Mono CJK JP','MS Gothic','Osaka-Mono','Noto Sans JP','Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo',monospace" font-size="12" fill="#e8e8e8" letter-spacing="1.5" text-anchor="start"><tspan x="40" dy="0">情報システム技術を学ぶ学生</tspan><tspan x="40" dy="17.4">システムエンジニア志望</tspan><tspan x="40" dy="17.4">常に学び、常に前進</tspan></text>
+  <text x="40" y="360" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Noto Sans Mono CJK JP','MS Gothic','Osaka-Mono','Noto Sans JP','Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo',monospace" font-size="12" fill="#e8e8e8" letter-spacing="1.5" text-anchor="start"><tspan x="40" dy="0">システム工学を学ぶ学生</tspan><tspan x="40" dy="17.4">システムエンジニア志望</tspan><tspan x="40" dy="17.4">常に学び、常に前進</tspan></text>
   <text x="1160" y="360" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Noto Sans Mono CJK JP','MS Gothic','Osaka-Mono','Noto Sans JP','Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo',monospace" font-size="12" fill="#e8e8e8" letter-spacing="1.5" text-anchor="end"><tspan x="1160" dy="0">PYTHON · SQL</tspan><tspan x="1160" dy="17.4">LAN · TCP/IP</tspan><tspan x="1160" dy="17.4">WINDOWS · LINUX</tspan><tspan x="1160" dy="17.4">技術サポート</tspan></text>
 
   <!-- (01) + globos -->
@@ -3312,7 +3312,7 @@
   </rect>
 
   <!-- nombre -->
-  <text x="40" y="560" font-family="'Helvetica Neue','Arial Black',Helvetica,Arial,'Noto Sans JP','Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo',sans-serif" font-weight="900" font-size="40" fill="#fff" letter-spacing="-0.5" textLength="640" lengthAdjust="spacingAndGlyphs">ホセ・ルイス・オビエド・カマチョ</text>
+  <text x="40" y="560" font-family="'Helvetica Neue','Arial Black',Helvetica,Arial,'Noto Sans JP','Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo',sans-serif" font-weight="900" font-size="40" fill="#fff" letter-spacing="-0.5">システムエンジニアリング</text>
   <text x="42" y="584" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Noto Sans Mono CJK JP','MS Gothic','Osaka-Mono','Noto Sans JP','Hiragino Sans','Hiragino Kaku Gothic ProN','Yu Gothic','Meiryo',monospace" font-size="11" fill="#9a9a9a" letter-spacing="1.5" text-anchor="start"><tspan x="42" dy="0">動き続けるアイデンティティ — ポートフォリオ / GITHUB</tspan></text>
 
   <!-- grano -->
